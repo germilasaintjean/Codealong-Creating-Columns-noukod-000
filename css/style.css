@@ -62,6 +62,7 @@ figcaption {
   text-decoration: none;
 }
 
+
 #details a:hover {
   color: black;
   text-decoration: underline;
@@ -69,4 +70,8 @@ figcaption {
 
 #details a:active {
   color: red;
+}
+
+img, video, audio {
+  max-width: : 100%
 }
